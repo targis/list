@@ -110,12 +110,11 @@ h3 {
 
 #top {
   position: fixed;
-  font-size: 30px;
+  font-size: 3em;
   right: 2%;
   bottom: 2%;
   display: block;
-  background-color: #3e83e8;
-  opacity: 0.8;
+  background-color: rgba(62, 131, 232, 0.8);
   cursor: pointer;
 }
 
