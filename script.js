@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', function () {
         offset,
     })
   }
-
   var tds = Array.from(document.querySelectorAll('tbody td:first-child'))
     .map(function (el) {
       return { letter: el.innerHTML[0], el }
