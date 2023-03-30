@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     li.addEventListener('click', () => {
       // td.el.scrollIntoView({ behavior: 'smooth' })
-      scrollIntoViewWithOffset(td.el, 20)
+      scrollIntoViewWithOffset(td.el, 50)
     })
   })
 
