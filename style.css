@@ -117,7 +117,7 @@ h3 {
   border-color: #fff;
 }
 
-#top {
+.btn-top {
   position: fixed;
   font-size: 0.75em;
   padding: 0.5em 1em;
@@ -131,6 +131,6 @@ h3 {
   cursor: pointer;
 }
 
-#top:hover {
+.btn-top:hover {
   opacity: 1;
 }
