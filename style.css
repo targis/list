@@ -43,7 +43,7 @@ h3 {
   border-collapse: collapse;
   width: 100%;
   max-width: 100%;
-  white-space: nowrap;
+  /* white-space: nowrap; */
   background-color: white;
   margin: 0 auto;
   position: relative;
