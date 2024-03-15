@@ -64,6 +64,11 @@ h3 {
   text-align: left;
 }
 
+.fl-table td:first-child::first-letter {
+  font-size: 1.3em;
+  /* font-weight: bold; */
+}
+
 @media screen and (max-width: 400px) {
   .fl-table td:first-child {
     max-width: 180px;
