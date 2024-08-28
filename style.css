@@ -81,6 +81,10 @@ h3 {
   font-size: 14px;
 }
 
+.fl-table td:last-child {
+  font-size: 1.25em;
+}
+
 .table-wrapper table thead th {
   color: #ffffff;
   background: #4fc3a1;
@@ -93,6 +97,14 @@ h3 {
 
 .table-wrapper table tr:nth-child(even) {
   background: rgb(201, 201, 201);
+}
+
+.fl-table thead th {
+  background-color: #324960;
+}
+
+.fl-table thead th:last-child {
+  background-color: #218b6c;
 }
 
 #nav {
